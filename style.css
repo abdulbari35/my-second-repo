@@ -1,0 +1,20 @@
+
+.ott{
+    background-color: forestgreen;
+    margin: 5px;
+    padding: 5px;
+    color: beige;
+}
+
+.opp{
+    background-color: bisque;
+    color: black;
+    text-transform: capitalize;
+    padding: 10px;
+}
+.odd{
+    border: 2px solod green;
+    padding: 10px;
+    background-color: orange;
+    margin: 5px;
+}
